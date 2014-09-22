@@ -1,4 +1,4 @@
 BDD
 ===
 
-This repo is Behavioral Driven Development Exercises
+This repo contains Behavioral Driven Development Exercises
